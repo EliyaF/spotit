@@ -1,0 +1,6 @@
+images/*
+output/*
+*.pdf
+*.png
+__pycache__/*
+venv/*
